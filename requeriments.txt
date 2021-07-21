@@ -1,0 +1,6 @@
+audioplayer==0.6
+ruamel.yaml==0.17.10
+ruamel.yaml.clib==0.2.6
+tk==0.1.0
+vext==0.7.6
+vext.gi==0.7.4
