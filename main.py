@@ -6,6 +6,7 @@ lista_de_musicas = list()
 global index 
 index = int(0)
 root = Tk()
+
 def play():
     button['text'] = '||'
     button['command'] = pause
